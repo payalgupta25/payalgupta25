@@ -26,6 +26,8 @@
 <img src="https://camo.githubusercontent.com/028f2f27471b9f6f839996f23af96cb7cf8703a3851533e06eec23a7d71d8255/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3035313232413f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d464641353138">
 </div>
 
+<h2> ⚙️ Github Analytics</h2>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payalgupta25)](https://github.com/anuraghazra/github-readme-stats)
 
 
