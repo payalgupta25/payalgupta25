@@ -32,12 +32,16 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=payalgupta25&show_icons=true&theme=transparent)
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=payalgupta25)](https://git.io/streak-stats)
+
 <h2> 🤝 Connect with Me</h2>
 
 <ul>
   <li><a text-decoration:none href="https://www.instagram.com/coders_cradle/">@coders_cradle</a></li>
   <li><a href="https://www.linkedin.com/in/payal-gupta-6a681a291/">LinkedIn</a></li>
 </ul>
+
 
 
 
