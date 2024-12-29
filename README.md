@@ -6,7 +6,7 @@
 <li>🏫 Pursuing my Bachelor's in Computer Science and Engineering from Maharaja Surajmal Institute of Technology (MSIT)</li>
 <li>📖 Learning AI/ML and building DSA expertise </li>
 <li>🌱 I’m currently on track of learning more about Web Development and creating MERN projects.</li>
-<li>🤝 Let's collaborate: [payalgupta425@gmail.com](mailto:payalgupta425@gmail.com)</li>
+<li>🤝 Let's collaborate: <a href="mailto:payalgupta425@gmail.com">payalgupta425@gmail.com</a></li>
 </ul>
 
 <h2>This is what I have learnt so far</h2><p align="center">
