@@ -1,40 +1,92 @@
-<h1 style="text-align:center;">Hi There 👋, I am Payal Gupta!</h1>
+# Hi 👋, I'm Payal Gupta
 
+#### Computer Science Undergraduate | Full Stack Developer | DSA Enthusiast | AI Explorer
 
+---
 
-<ul>
-<li>🏫 Pursuing my Bachelor's in Computer Science and Engineering from Maharaja Surajmal Institute of Technology (MSIT)</li>
-<li>📖 Learning AI/ML and building DSA expertise </li>
-<li>🌱 I’m currently on track of learning more about Web Development and creating MERN projects.</li>
-<li>🤝 Let's collaborate: <a href="mailto:payalgupta425@gmail.com">payalgupta425@gmail.com</a></li>
-</ul>
+## 👩‍💻 About Me
 
-<h2>This is what I have learnt so far</h2><p align="center">
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** from **Maharaja Surajmal Institute of Technology (MSIT)**
+- 💻 Full Stack Developer specializing in the **MERN Stack**
+- 🧩 Solved **800+ LeetCode** problems with a strong foundation in Data Structures & Algorithms
+- 🤖 Currently learning **Agentic AI**, **Large Language Models (LLMs)**, and AI-powered applications
+- 🚀 Love building products that solve real-world problems
+- 🤝 Open to collaborations on **Full Stack Development**, **AI**, and **Open Source**
+
+📫 **Reach me at:** **payalgupta425@gmail.com**
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,bootstrap,c,express,java,jquery,mongodb,mysql,nodejs,postgres,postman,react,ts&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,mysql,java,c,git,github,postman,bootstrap,tailwind,jquery,vscode&perline=10" />
   </a>
 </p>
 
-<h2> ⚙️ Github Analytics</h2>
+---
+
+## 🌱 Currently Learning
+
+- 🤖 Agentic AI
+- 🧠 Large Language Models (LLMs)
+- 🔗 AI Agents & Multi-Agent Systems
+- ⚙️ System Design
+- ☁️ Cloud Fundamentals
+- 📈 Advanced Data Structures & Algorithms
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Solved **800+ LeetCode** problems
+- 💻 Built multiple **Full Stack MERN** applications
+- 📚 Strong understanding of Data Structures & Algorithms
+- 🚀 Continuously exploring AI-powered applications and intelligent automation
+
+---
+
+## 📊 GitHub Analytics
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payalgupta25)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=payalgupta25&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💡 Interests
+
+- 🌐 Full Stack Web Development
+- 🤖 Artificial Intelligence
+- 🧠 Agentic AI
+- ⚡ Competitive Programming
+- 🛠 Backend Development
+- 🚀 Building scalable software solutions
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:payalgupta425@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/payal-gupta-6a681a291/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/payal_gupta25/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://www.instagram.com/coders_cradle/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=payalgupta25&theme=dark)](https://git.io/streak-stats)
 
-<h2> 🤝 Connect with Me </h2>
-
-<ul>
-  <li><a text-decoration:none href="https://www.instagram.com/coders_cradle/">@coders_cradle</a></li>
-  <li><a href="https://www.linkedin.com/in/payal-gupta-6a681a291/">LinkedIn</a></li>
-  <li><a href="https://leetcode.com/u/payal_gupta25/">LeetCode</a></li>
-</ul>
-
-
-
-
-<!---
-payalgupta25/payalgupta25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> ### ⭐ *"Code. Learn. Build. Repeat."*
