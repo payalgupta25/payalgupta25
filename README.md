@@ -8,7 +8,7 @@
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering** from **Maharaja Surajmal Institute of Technology (MSIT)**
 - 💻 Full Stack Developer specializing in the **MERN Stack**
 - 🧩 Solved **800+ LeetCode** problems with a strong foundation in Data Structures & Algorithms
-- 🤖 Currently learning **Agentic AI**, **Large Language Models (LLMs)**, and AI-powered applications
+- 🤖 Currently learning **Agentic AI**, **Large Language Models (LLMs)**, and **AI-powered applications**
 - 🚀 Love building products that solve real-world problems
 - 🤝 Open to collaborations on **Full Stack Development**, **AI**, and **Open Source**
 
