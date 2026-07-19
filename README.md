@@ -1,5 +1,4 @@
 # Hi 👋, I'm Payal Gupta
-
 #### Computer Science Undergraduate | Full Stack Developer | DSA Enthusiast | AI Explorer
 
 ---
